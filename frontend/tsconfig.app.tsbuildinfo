@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/apolloclient.ts","./src/main.tsx","./src/types.ts","./src/vite-env.d.ts","./src/api/example.ts","./src/api/mutation.ts","./src/api/query.ts","./src/components/addcountry.tsx","./src/components/countrydetail.tsx","./src/components/header.tsx","./src/components/layout.tsx","./src/pages/home.tsx"],"version":"5.8.3"}
